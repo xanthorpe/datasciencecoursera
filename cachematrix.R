@@ -42,7 +42,7 @@ cacheSolve <- function(x, ...) {
   inv
 }
 
-## Solution
+## Example
 ## mat <- matrix(c(1,3,5,6), nrow=2, ncol=2, byrow=TRUE)
 ## > mat1 <- makeCacheMatrix(mat)
 ## > mat
